@@ -1,4 +1,4 @@
-const apiKey = "4d78913841cf367742db2c4a82df2298";
+const apiKey = "api key";
 
 
 const getDataForCity = city => 
